@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bettersurveys/static/css/main.9e41c3f9.chunk.css",
-    "main.js": "/bettersurveys/static/js/main.62ced697.chunk.js",
-    "main.js.map": "/bettersurveys/static/js/main.62ced697.chunk.js.map",
-    "runtime-main.js": "/bettersurveys/static/js/runtime-main.16ab2cd6.js",
-    "runtime-main.js.map": "/bettersurveys/static/js/runtime-main.16ab2cd6.js.map",
-    "static/js/2.ab88cdff.chunk.js": "/bettersurveys/static/js/2.ab88cdff.chunk.js",
-    "static/js/2.ab88cdff.chunk.js.map": "/bettersurveys/static/js/2.ab88cdff.chunk.js.map",
-    "static/js/3.66a2b643.chunk.js": "/bettersurveys/static/js/3.66a2b643.chunk.js",
-    "static/js/3.66a2b643.chunk.js.map": "/bettersurveys/static/js/3.66a2b643.chunk.js.map",
-    "index.html": "/bettersurveys/index.html",
-    "static/css/main.9e41c3f9.chunk.css.map": "/bettersurveys/static/css/main.9e41c3f9.chunk.css.map",
-    "static/js/2.ab88cdff.chunk.js.LICENSE.txt": "/bettersurveys/static/js/2.ab88cdff.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/bettersurveys/static/media/double-bubble-dark.9b90d46a.png"
+    "main.css": "/bettersurveys-frontend/static/css/main.056c1f05.chunk.css",
+    "main.js": "/bettersurveys-frontend/static/js/main.62ced697.chunk.js",
+    "main.js.map": "/bettersurveys-frontend/static/js/main.62ced697.chunk.js.map",
+    "runtime-main.js": "/bettersurveys-frontend/static/js/runtime-main.44ca22b1.js",
+    "runtime-main.js.map": "/bettersurveys-frontend/static/js/runtime-main.44ca22b1.js.map",
+    "static/js/2.ab88cdff.chunk.js": "/bettersurveys-frontend/static/js/2.ab88cdff.chunk.js",
+    "static/js/2.ab88cdff.chunk.js.map": "/bettersurveys-frontend/static/js/2.ab88cdff.chunk.js.map",
+    "static/js/3.66a2b643.chunk.js": "/bettersurveys-frontend/static/js/3.66a2b643.chunk.js",
+    "static/js/3.66a2b643.chunk.js.map": "/bettersurveys-frontend/static/js/3.66a2b643.chunk.js.map",
+    "index.html": "/bettersurveys-frontend/index.html",
+    "static/css/main.056c1f05.chunk.css.map": "/bettersurveys-frontend/static/css/main.056c1f05.chunk.css.map",
+    "static/js/2.ab88cdff.chunk.js.LICENSE.txt": "/bettersurveys-frontend/static/js/2.ab88cdff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bettersurveys-frontend/static/media/double-bubble-dark.9b90d46a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.16ab2cd6.js",
+    "static/js/runtime-main.44ca22b1.js",
     "static/js/2.ab88cdff.chunk.js",
-    "static/css/main.9e41c3f9.chunk.css",
+    "static/css/main.056c1f05.chunk.css",
     "static/js/main.62ced697.chunk.js"
   ]
 }
