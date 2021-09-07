@@ -1,0 +1,10 @@
+.questionContainer {
+  width: 50%;
+  height: 80%;
+  background-color: RGB(0, 0, 0, 0.2);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid white;
+}

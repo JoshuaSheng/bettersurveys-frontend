@@ -1,0 +1,18 @@
+.textinput {
+  word-break: break-all;
+  display: block;
+  min-height: 5vh;
+  width: 80%;
+  margin: 1vh 0vh;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: transparent transparent rgb(255, 255, 255, 0.5) transparent;
+  color: white;
+  font-size: 5vh;
+  overflow: hidden !important;
+}
+
+.textinput:focus {
+  outline: none;
+  border-color: transparent transparent white transparent;
+}

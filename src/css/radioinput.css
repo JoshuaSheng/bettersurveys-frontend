@@ -1,0 +1,17 @@
+.radioButtonGrid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  height: 50vh;
+  grid-column-gap: 1vw;
+  grid-row-gap: 1vw;
+}
+.radioButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  font-size: 3vw;
+  color: white;
+  border: 1px solid white;
+  border-radius: 1vh;
+}

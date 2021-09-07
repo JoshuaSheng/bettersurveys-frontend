@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+.counter {
+  text-align: center;
+  min-width: 3vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+.questionText {
+  width: 80%;
+  justify-content: flex-start;
+  display: flex;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
