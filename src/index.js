@@ -67,7 +67,7 @@ import reportWebVitals from "./reportWebVitals";
 // testExpressServer(questionList);
 function renderSurvey() {
   async function expressCall() {
-    let res = await fetch("http://bettersurveys.herokuapp.com?id=20020618");
+    let res = await fetch("https://bettersurveys.herokuapp.com?id=20020618");
     console.log("yes");
     let rawData = await res.json();
     ReactDOM.render(

@@ -38,7 +38,7 @@ class App extends Component {
       },
       body: JSON.stringify({ id: surveyID, data: formSubmission }),
     };
-    let res = await fetch("http://bettersurveys.herokuapp.com", options);
+    let res = await fetch("https://bettersurveys.herokuapp.com", options);
     console.log(res.ok);
   };
 
