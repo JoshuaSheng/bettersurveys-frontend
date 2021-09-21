@@ -70,6 +70,7 @@ function renderSurvey() {
     let res = await fetch("https://bettersurveys.herokuapp.com?id=20020618");
     console.log("yes");
     let rawData = await res.json();
+    document.getElementById("root").innerHTML = "";
     ReactDOM.render(
       <React.StrictMode>
         <App questions={rawData[0].survey} />
